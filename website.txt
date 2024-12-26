@@ -1,0 +1,13 @@
+login/ signup 
+logout
+home page [slider of products , products examples, 
+about us
+services
+ cosmetics[makeup, clips , rubbers and extra stuff.]
+ bangles [glass, metal, bentex, variety , design bangles.]
+pooja items[all items]
+agarbatti[all available types]
+ rangoli white and all color]
+contact us 
+address and location
+

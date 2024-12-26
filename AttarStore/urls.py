@@ -24,5 +24,5 @@ admin.site.index_title = "Welcome to Attar Stores"
 urlpatterns = [
     path('admin/', admin.site.urls),
     # include the urls file from the app 
-    path("",include('PoojaStore.urls'))
+    path("",include('Home.urls'))
 ]
